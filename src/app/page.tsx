@@ -13,7 +13,7 @@ export default function Home() {
           <div className="flex flex-col-reverse lg:flex-row items-center gap-10">
             <div className="flex-1 text-center lg:text-left">
               <div className="inline-flex items-center gap-3 mb-4">
-                <Image src="/groww_img.png" alt="FinBoard" width={40} height={40} className="rounded-lg" />
+                
                 <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 dark:from-emerald-300 dark:via-teal-300 dark:to-cyan-300 bg-clip-text text-transparent">FinBoard</h1>
               </div>
               <h2 className="text-3xl sm:text-5xl font-black leading-tight mb-4 text-slate-900 dark:text-white">
