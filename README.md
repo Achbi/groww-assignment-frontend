@@ -2,7 +2,39 @@
 
 FinBoard is a customizable, real‑time finance dashboard builder built with Next.js 15 and React 19. It lets you create beautiful data visualizations by connecting to any JSON API, assembling dashboards from cards, charts, and tables with drag‑and‑drop ease. It includes a secure proxy for server‑side fetching, light/dark themes, and a modular widget theme system.
 
-![Dashboard](public/homePage.png)
+## 📸 Screenshots
+
+> Place the images in `public/screenshots/` with the following filenames to display them.
+
+- Hero / Landing
+
+<img width="943" height="293" alt="image" src="https://github.com/user-attachments/assets/2558e777-c7c2-434d-ab50-9b13f508092f" />
+
+
+- Create Widget – Source tab
+
+<img width="939" height="390" alt="image" src="https://github.com/user-attachments/assets/6b1fa05f-712c-4bc2-80b9-b2073d8daf8f" />
+
+
+
+
+
+- Create Widget – Theme tab
+
+<img width="950" height="382" alt="image" src="https://github.com/user-attachments/assets/a3ea61f7-f91e-4489-8cad-a3e24db4bcad" />
+
+
+- Dashboard (Light)
+
+<img width="672" height="430" alt="image" src="https://github.com/user-attachments/assets/c58f315c-42ee-4ade-9e08-4dfd80504031" />
+
+
+- Dashboard (Dark)
+
+<img width="607" height="311" alt="image" src="https://github.com/user-attachments/assets/9fb46c02-d2d4-4022-bdc8-c64e1c642ea7" />
+
+
+
 
 ## ✨ Highlights
 
@@ -101,13 +133,13 @@ if (res.error) {
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 18+ 
+- Node.js 18+
 - npm or yarn
 
 ### Install & Run
-   ```bash
-   npm install
-   npm run dev
+```bash
+npm install
+npm run dev
 # open http://localhost:3000
 ```
 
@@ -154,5 +186,3 @@ MIT © Contributors
 ---
 
 Made with ❤️ for finance and data enthusiasts.
-
-
